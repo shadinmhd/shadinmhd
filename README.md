@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a fullstack developer
-
+MERN stack developer skilled in JavaScript, React.js, Node.js, Express.js, and MongoDB. Adept at building scalable web applications with a focus on code quality. Committed to continuous learning and passionate about creating innovative solutions. Eager to collaborate on challenging projects and contribute to dynamic development teams
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadin-muhammed-69b004256) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shadin_mhd) 
